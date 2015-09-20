@@ -1,0 +1,2 @@
+# programming_collective_intelligence_code
+learning of book programming collective intelligence
